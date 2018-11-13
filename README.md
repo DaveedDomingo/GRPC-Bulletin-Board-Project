@@ -12,7 +12,7 @@ The latex version for the project writeup is included within the latex folder if
 This project can be utilized to  explore the following topics: 
 - Concepts: RPC, data serialization/marshalling
 - Languages: Java
-- Frameworks: gRPC
+- Frameworks: gRPC, Google protocol buffers
 
 To make it easier for students, its recommended to compress the project-template folder for easier project distribution.
 
